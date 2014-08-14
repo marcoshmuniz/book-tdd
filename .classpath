@@ -6,7 +6,7 @@
 	<classpathentry kind="src" path="test/integration"/>
 	<classpathentry kind="lib" path="lib/deploy/commons-io-1.4.jar" sourcepath="lib/develop/commons-io-1.4-sources.jar"/>
 	<classpathentry kind="lib" path="lib/deploy/commons-lang-2.4.jar"/>
-	<classpathentry kind="lib" path="lib/deploy/smack_3_1_0.jar"/>
+	<classpathentry kind="lib" path="lib/deploy/smack_3_1_0.jar" sourcepath="/Users/marcosmuniz/.m2/repository/org/igniterealtime/smack/smack/3.1.0/smack-3.1.0-sources.jar"/>
 	<classpathentry kind="lib" path="lib/deploy/smackx_3_1_0.jar"/>
 	<classpathentry kind="lib" path="lib/develop/cglib-nodep-2.2.jar"/>
 	<classpathentry kind="lib" path="lib/develop/junit-4.6-src.jar"/>
